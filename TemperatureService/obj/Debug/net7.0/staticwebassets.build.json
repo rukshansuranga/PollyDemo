@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "em3Y0nBK72do+T+pFyxfSj9+KvoIb43E04QIsiul7Xg=",
+  "Source": "TemperatureService",
+  "BasePath": "_content/TemperatureService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
